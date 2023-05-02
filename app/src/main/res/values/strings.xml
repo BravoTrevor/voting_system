@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Praco_eleventh</string>
+    <string name="log_in">log_in</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="welcome_to_trevor_s_voting_system">welcome_to_trevor_s_voting_system</string>
+    <string name="login">login</string>
+</resources>
